@@ -179,8 +179,8 @@ This project is suitable for:
 👨‍💻 Author
 
 Altamas Kausar
-
 Final Year Computer Science Student
+& other 3 teammates.
 
 ---
 
