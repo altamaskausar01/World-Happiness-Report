@@ -149,7 +149,6 @@ World-Happiness-Analysis/
 ├── World Happiness Report.csv
 ├── happiness_analysis.py
 ├── README.md
-└── charts/
 ```
 
 ---
